@@ -7,8 +7,8 @@ from concurrent.futures import ThreadPoolExecutor
 # CONFIGURATION
 # =========================
 # Replace these with your own credentials.
-API_KEY = "AIzaSyAWArNosJxat4w1lKqEKaU5Vhj-JlGIjFI"
-SEARCH_ENGINE_ID = "513aeddbc22cf46db"
+API_KEY = "your_google_api_key"
+SEARCH_ENGINE_ID = "your_search_engine_id"
 
 # =========================
 # GOOGLE CUSTOM SEARCH API CALL
