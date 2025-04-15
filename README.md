@@ -1,7 +1,6 @@
 # SERP Analysis Tool with Google Custom Search API
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 A Python-based Search Engine Results Page (SERP) analysis tool that leverages the Google Custom Search JSON API to fetch and analyze web content for specialized research domains. Developed as a course project in my third year.
 
